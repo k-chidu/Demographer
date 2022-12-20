@@ -1,0 +1,7 @@
+
+
+1. Literacy rate.
+2. To add line graph in output window.
+3. if else for number of (show table)
+4. check values for states.
+5. Construct a high defined fuction to check whether all the values are present inside database.
